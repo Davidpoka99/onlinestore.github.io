@@ -1,0 +1,234 @@
+/*------BODY------*/
+body{
+    box-sizing: border-box 25px;
+    font-family: 'lato', sans-serif;
+    background-color: gray;
+    margin: auto;
+    padding-right: 5%;
+}
+/*------BODY END------*/
+
+
+/*-------HEADER SECTION-------*/
+.you{
+    width: 1300.8px;
+    border: solid red 1px;
+    background-color: red;
+    height: 65px;
+    padding: 3px 15px 25px 15px;
+}
+
+/*----- LOGO -----*/
+.you img{
+    width: 6.5%;
+    padding-left: 15px;
+}
+/*----- marquee -----*/
+.you marquee{
+    color: white;
+    text-decoration: solid;
+}
+.you span{
+    color: black;
+}
+
+.main{
+    width: 1309.9px;
+    border: solid black ;
+    height: 70px;
+    background-color: black;
+    text-align: right;
+    padding: 5px;
+    margin: auto;
+}
+.main a:hover{
+    background-color: red;
+}
+.main a{
+    margin: 3px;
+    color: white;
+    text-decoration: none;
+    padding: 6.5px;
+}
+/*-------HEADER END-------*/
+
+/*-------BOOT SECTION-------*/
+.contain img{
+    width: 80%;
+    padding: -4px;
+    margin: -115px;
+}
+
+.contain{
+    padding-left: 865px;
+}
+
+/*-------BOOT END-------*/
+
+/*------MOTTO SECTION-----*/
+.poka h3{
+    padding: -1%;
+    margin-right: auto;
+    text-indent: 10%;
+    color: rgb(245, 242, 237);
+}
+
+.david{
+    padding: -1%;
+}
+
+.david span{
+    color: red;
+    text-indent: 10%;
+}
+.david{
+  text-indent: 10%;
+  margin-top: -18px;
+}
+
+.david p{
+    margin-top: -6px;
+}
+
+.poka span{
+    color: black;
+}
+/*------MOTTO SECTION END------*/
+
+/*-------SHOP NOW SECTION-------*/
+.james a{
+    color: white;
+    background-color: red;
+    width: 5%;
+    padding: 10px;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.james{
+    padding-left: 135px;
+}
+/*-------SHOP NOW SECTION END-------*/
+
+/*-------ADDRESS CONTACT-------*/
+.address p{
+    margin: 3px;
+    color: rgb(249, 239, 221);
+    margin-left: 35px;
+}
+.address span{
+    color: rgba(206, 25, 25, 0.934);
+}
+.address h3{
+    margin-left: 35px;
+}
+.pic img{
+    border: solid 5px rgb(159, 23, 23);
+    border-radius: 175px;
+    width: 175px;
+}
+.pic{
+    padding-left: 205px;
+}
+
+.sale span{
+    color: rgba(206, 25, 25, 0.934);
+}
+.for h3{
+    padding-left: 38px;
+}
+/*--------ADDRESS CONTACT ENDS--------*/
+/*------CONTACT FORM------*/
+.contact{
+    padding-left: 100px;
+    padding-right: 39%;
+    color: white;
+    margin-left: 35px;
+}
+.contact button{
+    background-color: rgb(184, 18, 18);
+    color: white;
+    margin-left: 35px;
+    border: 5px;
+    width: 65px;
+}
+
+.contact fieldset{
+    color: black;
+    background-color: rgba(244, 243, 245, 0.404);
+}
+.contact input{
+    margin-left: 35px;
+}
+.contact textarea{
+    margin-left: 35px;
+}
+.sale{
+    margin-left: 35px;
+    color: white;
+}
+/*--------CONTACT FORM ENDS--------*/
+/*--------PRODUCTS Section--------*/
+
+/*--------PRODUCTS END--------*/
+
+
+/*--------About Us Section--------*/
+.him span{
+    color: red;
+}
+.him h1{
+    color: white;
+    margin: 25px;
+}
+.port {
+    text-align: auto;
+    margin: 25px;
+}
+.port p{
+    color: white;
+    
+}
+hr{
+    display: block;
+    border: 1px solid black;
+    margin: 23px;
+}
+.her span{
+    color: red;
+}
+.her h1{
+    color: white;
+    margin: 25px;
+}
+.her p{
+    color: white;
+}
+.her b{
+   color: black;
+}
+.her p{
+    text-align: auto;
+    margin: 25px;
+}
+
+/*--------About Us End--------*/
+
+/*-------PRODUCTS-------*/
+
+
+/*-------PRODUCTS ENDS-------*/
+
+
+/*-------FOOTER-------*/
+
+
+footer {
+    text-align: center;
+    padding: 5px 75px 4px;
+    background-color: white;
+    color: black;
+    margin:0;
+}
+
+
+/*-------FOOTER END-------*/
